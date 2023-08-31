@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @YMunasinghe
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning Android Studio with Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yasiru Munasinghe
+- 👀 I’m interested in new technologies
+- 🌱 I’m currently learning Android Studio | Java | Angular | Spring boot | Firebase
+- 📫 How to reach me --> yasiruchathu55@gmail.com
 
 <!---
 YMunasinghe/YMunasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

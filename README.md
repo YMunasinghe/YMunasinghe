@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasiru Munasinghe
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Android Studio | Java | Angular | Spring boot | Firebase
+- 🌱 I’m currently learning Android Studio | Java | Angular | Spring boot | PHP | AWS
 - 📫 How to reach me --> yasiruchathu55@gmail.com
 
 <!---
